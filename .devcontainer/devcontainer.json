@@ -2,6 +2,6 @@
   "dockerComposeFile": ["../docker-compose.yml", "docker-compose.yml"],
   "service": "web",
   "workspaceFolder": "/code",
-  "extensions": ["GitHub.copilot", "editorconfig.editorconfig"],
+  "extensions": ["GitHub.copilot", "editorconfig.editorconfig", "dbaeumer.vscode-eslint", "esbenp.prettier-vscode"],
   "remoteUser": "root"
 }
