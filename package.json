@@ -12,6 +12,7 @@
     "prettier:write": "prettier --write --ignore-path .gitignore './**/*.{js,jsx,tx,tsx,json}'"
   },
   "dependencies": {
+    "@types/next-auth": "^3.15.0",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",

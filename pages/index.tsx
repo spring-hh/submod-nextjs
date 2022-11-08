@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-unresolved
 import CognitoProvider from 'next-auth/providers/cognito';
 import Head from 'next/head';
 import Image from 'next/image';
